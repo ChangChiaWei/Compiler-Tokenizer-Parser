@@ -4,6 +4,8 @@
 
 • Utilize the token stream and the BNF specification to parse the input into a XML-like parse tree.
 
+  The BNF specification :
+
 
     <stmt>            ::= <while_stmt> <stmt>
                       | <for_stmt> <stmt>
